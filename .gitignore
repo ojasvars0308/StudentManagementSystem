@@ -1,5 +1,5 @@
-# Ignore all JavaScript files inside js folder
-js/*.js
+# # Ignore all JavaScript files inside js folder
+# js/*.js
 
-# Keep the folder itself
-!js/.gitkeep
+# # Keep the folder itself
+# !js/.gitkeep
